@@ -1,0 +1,9 @@
+c:\users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\bin\Debug\EasyCrypt.exe.config
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\bin\Debug\EasyCrypt.exe
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\bin\Debug\EasyCrypt.pdb
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.csprojResolveAssemblyReference.cache
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.Form1.resources
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.Properties.Resources.resources
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.csproj.GenerateResource.Cache
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.exe
+C:\Users\ppp\documents\visual studio 2015\Projects\EasyCryptApp\EasyCrypt\obj\Debug\EasyCrypt.pdb
