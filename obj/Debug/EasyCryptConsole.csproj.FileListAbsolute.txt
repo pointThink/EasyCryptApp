@@ -1,0 +1,6 @@
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\obj\Debug\EasyCryptConsole.csprojResolveAssemblyReference.cache
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\bin\Debug\EasyCryptConsole.exe.config
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\bin\Debug\EasyCryptConsole.exe
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\bin\Debug\EasyCryptConsole.pdb
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\obj\Debug\EasyCryptConsole.exe
+C:\Users\User\.vscode\Documents\SharpDevelop Projects\EasyCryptConsole\EasyCryptConsole\obj\Debug\EasyCryptConsole.pdb
